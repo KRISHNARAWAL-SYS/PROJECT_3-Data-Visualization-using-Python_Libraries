@@ -1,4 +1,4 @@
-# PROJECT_2-Data-Visualization-using-Python_Libraries
+# PROJECT_3-Data-Visualization-using-Python_Libraries
 # 📊 Data Visualization Project
 
 ## Overview
